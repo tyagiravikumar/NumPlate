@@ -1,0 +1,26 @@
+<annotation>
+	<folder>070603</folder>
+	<filename>P6070077.jpg</filename>
+	<path>E:\Ravi\test_data\070603\P6070077.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>298</ymin>
+			<xmax>428</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
